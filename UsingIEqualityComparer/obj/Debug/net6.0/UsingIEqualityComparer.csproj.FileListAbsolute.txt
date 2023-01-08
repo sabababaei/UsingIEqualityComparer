@@ -1,0 +1,15 @@
+F:\Asp Net Core test Projects\Net-CSharp\UsingIEqualityComparer\UsingIEqualityComparer\bin\Debug\net6.0\UsingIEqualityComparer.exe
+F:\Asp Net Core test Projects\Net-CSharp\UsingIEqualityComparer\UsingIEqualityComparer\bin\Debug\net6.0\UsingIEqualityComparer.deps.json
+F:\Asp Net Core test Projects\Net-CSharp\UsingIEqualityComparer\UsingIEqualityComparer\bin\Debug\net6.0\UsingIEqualityComparer.runtimeconfig.json
+F:\Asp Net Core test Projects\Net-CSharp\UsingIEqualityComparer\UsingIEqualityComparer\bin\Debug\net6.0\UsingIEqualityComparer.dll
+F:\Asp Net Core test Projects\Net-CSharp\UsingIEqualityComparer\UsingIEqualityComparer\bin\Debug\net6.0\UsingIEqualityComparer.pdb
+F:\Asp Net Core test Projects\Net-CSharp\UsingIEqualityComparer\UsingIEqualityComparer\obj\Debug\net6.0\UsingIEqualityComparer.csproj.AssemblyReference.cache
+F:\Asp Net Core test Projects\Net-CSharp\UsingIEqualityComparer\UsingIEqualityComparer\obj\Debug\net6.0\UsingIEqualityComparer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Asp Net Core test Projects\Net-CSharp\UsingIEqualityComparer\UsingIEqualityComparer\obj\Debug\net6.0\UsingIEqualityComparer.AssemblyInfoInputs.cache
+F:\Asp Net Core test Projects\Net-CSharp\UsingIEqualityComparer\UsingIEqualityComparer\obj\Debug\net6.0\UsingIEqualityComparer.AssemblyInfo.cs
+F:\Asp Net Core test Projects\Net-CSharp\UsingIEqualityComparer\UsingIEqualityComparer\obj\Debug\net6.0\UsingIEqualityComparer.csproj.CoreCompileInputs.cache
+F:\Asp Net Core test Projects\Net-CSharp\UsingIEqualityComparer\UsingIEqualityComparer\obj\Debug\net6.0\UsingIEqualityComparer.dll
+F:\Asp Net Core test Projects\Net-CSharp\UsingIEqualityComparer\UsingIEqualityComparer\obj\Debug\net6.0\refint\UsingIEqualityComparer.dll
+F:\Asp Net Core test Projects\Net-CSharp\UsingIEqualityComparer\UsingIEqualityComparer\obj\Debug\net6.0\UsingIEqualityComparer.pdb
+F:\Asp Net Core test Projects\Net-CSharp\UsingIEqualityComparer\UsingIEqualityComparer\obj\Debug\net6.0\UsingIEqualityComparer.genruntimeconfig.cache
+F:\Asp Net Core test Projects\Net-CSharp\UsingIEqualityComparer\UsingIEqualityComparer\obj\Debug\net6.0\ref\UsingIEqualityComparer.dll
